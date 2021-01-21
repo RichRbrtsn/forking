@@ -1,8 +1,13 @@
 layout: recipe
+
 title:  "Avocado and peanut butter on toast"
+
 image: avopbtoast.jpg
-imagecredit: Rich 
+
+imagecredit: Rich
+
 tags: breakfast, luch, avocado
+
 
 ingredients:
 - 1 ripe avocado
